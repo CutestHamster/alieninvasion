@@ -9,4 +9,4 @@ Change the settings to your liking in settings.py
 
 alien_invasion.py contains the main game so run that from command line (eg. python3 alien_invasion.py)
 
-Press Q to quit the game!
+Controls: 'Q' to quit, Left/Right arrow keys to move, Spacebar to shoot
